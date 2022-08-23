@@ -1,0 +1,18 @@
+{
+  "name": "vercel-public-directory",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Adrian8422/vercel-public-directory.git",
+  "author": "Adrian Villegas <manbassman1996@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next"
+  },
+  "dependencies": {
+    "next": "^12.2.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
